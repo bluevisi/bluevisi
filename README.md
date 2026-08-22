@@ -57,9 +57,9 @@
 
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[enterprise-ecommerce-core](#)** | PHP 8, MySQL, Docker | Modern modular e-commerce API featuring transactional checkout locks & payment gateway pipelines. |
-| **[async-erp-sync-engine](#)** | Node.js, Express, Redis Queue | High-concurrency queue processing third-party ERP webhooks with exponential backoff. |
-| **[multitenant-saas-dashboard](#)** | React, Node.js, PostgreSQL | Tenant-isolated dashboard architecture with RBAC and real-time state management. |
+| **[enterprise-ecommerce-core](https://github.com/bluevisi/enterprise-ecommerce-core)** | PHP 8, MySQL, Docker | Modern modular e-commerce API featuring pessimistic/optimistic database locking & transactional checkout pipelines. |
+| **[async-erp-sync-engine](https://github.com/bluevisi/async-erp-sync-engine)** | Node.js, Express, Redis, BullMQ | High-concurrency event-driven queue processing third-party ERP webhooks with exponential backoff & DLQs. |
+| **[multitenant-saas-dashboard](https://github.com/bluevisi/multitenant-saas-dashboard)** | React, Node.js, PostgreSQL | Multi-tenant SaaS architecture featuring PostgreSQL Row-Level Security (RLS) & role-based access control (RBAC). |
 
 ---
 
