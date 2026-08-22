@@ -65,11 +65,14 @@
 
 <div align="center">
 
-### 📊 GitHub Activity Statistics
+### 📊 Professional Metrics & Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluevisi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluevisi&layout=compact&theme=dark&hide_border=true&hide=html,css" height="150" />
+  <img src="https://img.shields.io/badge/Experience-10%2B_Years-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Enterprise_E--Commerce-orange?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Security_%26_Database_Locking-red?style=for-the-badge&logo=springsecurity&logoColor=white" />
 </p>
+
+</div>
 
 </div>
