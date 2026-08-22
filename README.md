@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Usman+Khan;Senior+Full-Stack+%26+Systems+Engineer;13%2B+Years+Building+Scalable+E-Commerce;Database+%26+Security+Architect" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Usman+Khan;Fractional+CTO+%26+Full-Stack+Architect;Multi-Tenant+SaaS+%26+Real-Time+Systems;High-Scale+E-Commerce+%26+Esports+Platforms;Distributed+Databases+%26+API+Engines" alt="Typing SVG" /></a>
 
 <p align="center">
   <b>Architecting resilient e-commerce cores, multi-tenant backend engines, and production cloud systems.</b>
