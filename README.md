@@ -68,7 +68,7 @@
 ### 📊 Professional Metrics & Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-10%2B_Years-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-13%2B_Years-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-Enterprise_E--Commerce-orange?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Security_%26_Database_Locking-red?style=for-the-badge&logo=springsecurity&logoColor=white" />
 </p>
