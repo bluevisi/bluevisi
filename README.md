@@ -9,8 +9,8 @@
 
 <!-- Quick Social Badges -->
 <p align="center">
-  <a href="mailto:your-email@domain.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bluevisionary3@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/usman-khan-9999b360/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Availability-Open_for_Remote_Contracts-2ea44f?style=for-the-badge" />
 </p>
 
