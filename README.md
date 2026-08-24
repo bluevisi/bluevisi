@@ -59,7 +59,8 @@
 | **[enterprise-ecommerce-core](https://github.com/bluevisi/enterprise-ecommerce-core)** | PHP 8, MySQL, Docker | Modern modular e-commerce API featuring pessimistic/optimistic database locking & transactional checkout pipelines. |
 | **[async-erp-sync-engine](https://github.com/bluevisi/async-erp-sync-engine)** | Node.js, Express, Redis, BullMQ | High-concurrency event-driven queue processing third-party ERP webhooks with exponential backoff & DLQs. |
 | **[multitenant-saas-dashboard](https://github.com/bluevisi/multitenant-saas-dashboard)** | React, Node.js, PostgreSQL | Multi-tenant SaaS architecture featuring PostgreSQL Row-Level Security (RLS) & role-based access control (RBAC). |
-
+| **[high-throughput-event-streamer](https://github.com/bluevisi/high-throughput-event-streamer)** | Node.js, TypeScript, WebSockets, Redis | Production-ready event ingestion engine & WebRTC media proxy for low-latency, high-concurrency broadcasting. |
+| **[woocommerce-secure-payment-gateway](https://github.com/bluevisi/woocommerce-secure-payment-gateway)** | PHP, WooCommerce, Security | Hardened custom payment gateway with HMAC-SHA256 signature verification, atomic stream parsing & AES-256-GCM encryption. |
 ---
 
 <div align="center">
